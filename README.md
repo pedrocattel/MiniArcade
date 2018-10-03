@@ -1,5 +1,11 @@
 # MiniArcade
-Um mini arcade feito com Raspberry Pi para o trabalho de Microcontroladores
+Um mini arcade feito com Raspberry Pi para o trabalho de Microcontroladores.
+
+Feito por: 
+
+* [Pedro Cattel](https://github.com/pedrocattel). Email: pedrocattel@hotmail.com
+* [Thomaz Erlach](https://github.com/thomazerlach). Email: thomazerlach@hotmail.com
+* [Victor Xavier](https://github.com/viictor1224). Email: victorxm1@gmail.com 
 
 ### Materiais Utilizados
 
@@ -97,3 +103,5 @@ Um mini arcade feito com Raspberry Pi para o trabalho de Microcontroladores
     *Shoulder* Direito | 13
     Start | 6
     Select | 5
+
+7. Divirta-se!
